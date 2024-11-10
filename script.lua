@@ -13,7 +13,7 @@ getgenv().jamkles = {
         Enabled = true,
         AimPart = "UpperTorso",
         Prediction = 0.1192,
-        Spectate = true
+        Spectate = false
     },
     ["SilentAim"] = {
         Enabled = true,
@@ -23,7 +23,7 @@ getgenv().jamkles = {
         HitChance = 100
     },
     ['BulletTp'] = {
-         Enabled = true
+         Enabled = false
     },
     ["Smoothness"] = {
         Enabled = true,
