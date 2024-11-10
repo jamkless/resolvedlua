@@ -2,7 +2,6 @@ getgenv().jamkles = {
     ["Streamable"] = {
         Ui = false, -- not out
         Mode = "Button", -- Tool, Button, Pc, Controller, Silent
-        Key = "Key here"
     },
     ["Camlock"] = {
         Enabled = false,
