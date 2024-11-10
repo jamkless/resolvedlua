@@ -75,4 +75,6 @@ getgenv().jamkles = {
             ClickDelay = 0
         }
     }
-}p
+}
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/78d4c5f05b1d5b3a786b48476accbf51.lua"))()
